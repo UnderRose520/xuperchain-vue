@@ -4,7 +4,7 @@
 
 English | [简体中文](./README-zh.md)
 
-> A minimal Government affairs system with Element UI & axios & iconfont & permission control & lint
+> A minimal Government affairs system；
 
 **https://github.com/UnderRose520/xuperchain-vue
 
