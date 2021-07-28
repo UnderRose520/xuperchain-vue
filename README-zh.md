@@ -1,5 +1,7 @@
 # xuperchain-vue:政务系统前端代码
 
+[English](./README.md) | 简体中文
+
 > 这是一个极简的政务系统的vue的管理后台代码。
 
 
