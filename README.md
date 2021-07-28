@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-# xuperchain-vue前端代码
+# xuperchain-vue: Government affairs system front code
 
 English | [简体中文](./README-zh.md)
 
@@ -68,6 +68,6 @@ Modern browsers and Internet Explorer 10+.
 
 [MIT](https://github.com/UnderRose520/xuperchain-vue/blob/master/LICENSE) license.
 
-Copyright (c) 2021-present YangShuWu
+Copyright (c) 2021-present Yang Shuwu
 =======
 
