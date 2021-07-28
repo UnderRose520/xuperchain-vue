@@ -65,4 +65,4 @@ Modern browsers and Internet Explorer 10+.
 
 [MIT](https://github.com/UnderRose520/xuperchain-vue/blob/master/LICENSE) license.
 
-Copyright (c) 2017-present Yang Shuwu
+Copyright (c) 2021-present Yang Shuwu &Qi Lianfeng &Zhu Chenghang &Non Chengyi &Huang Xiuwei
